@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/OCRForRead">
+        <file>panda.ico</file>
+        <file>Start.ico</file>
+        <file>Stop.ico</file>
+    </qresource>
+</RCC>
